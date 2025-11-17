@@ -1,0 +1,1609 @@
+[
+  {
+    "name": "Steve",
+    "age": "32",
+    "gender": "Male",
+    "location": "Christchurch",
+    "iwi": "Pukenga",
+    "hapu": "N/A",
+    "signup_date": "2024-11-01",
+    "phase": "completed",
+    "weeks_completed": 12,
+    "programs": [
+      "Ko wai au",
+      "Mental Health and Well-being"
+    ],
+    "weekly_progress": [
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green"
+    ],
+    "red_phase_assessments": {
+      "1": {
+        "score": 0,
+        "notes": ""
+      },
+      "2": {
+        "score": 0,
+        "notes": ""
+      },
+      "3": {
+        "score": 0,
+        "notes": ""
+      },
+      "4": {
+        "score": 0,
+        "notes": ""
+      },
+      "5": {
+        "score": 0,
+        "notes": ""
+      },
+      "6": {
+        "score": 0,
+        "notes": ""
+      }
+    },
+    "advocacy": [
+      "Oranga Tamariki",
+      "MSD",
+      "Housing"
+    ],
+    "advocacy_phase": "active",
+    "advocacy_weeks_completed": 48,
+    "advocacy_weekly_progress": [
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "kaimahi": "Mervyn"
+  },
+  {
+    "name": "Joanne",
+    "age": "54",
+    "gender": "Female",
+    "location": "Cheristchurch",
+    "iwi": "Ngai Tahu",
+    "hapu": "N/A",
+    "signup_date": "2025-03-01",
+    "phase": "completed",
+    "weeks_completed": 12,
+    "programs": [
+      "Ko wai au",
+      "Mental Health and Well-being",
+      "Anger Management",
+      "Domestic Violence"
+    ],
+    "weekly_progress": [
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green"
+    ],
+    "red_phase_assessments": {
+      "1": {
+        "score": 0,
+        "notes": ""
+      },
+      "2": {
+        "score": 0,
+        "notes": ""
+      },
+      "3": {
+        "score": 0,
+        "notes": "Joanne is making good progress we have assesd her needs and are creating a pathway for her going forward"
+      },
+      "4": {
+        "score": 0,
+        "notes": ""
+      },
+      "5": {
+        "score": 0,
+        "notes": ""
+      },
+      "6": {
+        "score": 0,
+        "notes": ""
+      }
+    },
+    "advocacy": [],
+    "advocacy_phase": "none",
+    "advocacy_weeks_completed": 0,
+    "advocacy_weekly_progress": [],
+    "kaimahi": "Arianna"
+  },
+  {
+    "name": "Julie",
+    "age": "44",
+    "gender": "Female",
+    "location": "Christchurch",
+    "iwi": "Ngai Tahu",
+    "hapu": "N/A",
+    "signup_date": "2025-03-01",
+    "phase": "completed",
+    "weeks_completed": 12,
+    "programs": [
+      "Ko wai au",
+      "Mental Health and Well-being",
+      "Anger Management",
+      "Domestic Violence"
+    ],
+    "weekly_progress": [
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green"
+    ],
+    "red_phase_assessments": {
+      "1": {
+        "score": 0,
+        "notes": ""
+      },
+      "2": {
+        "score": 0,
+        "notes": ""
+      },
+      "3": {
+        "score": 0,
+        "notes": ""
+      },
+      "4": {
+        "score": 0,
+        "notes": ""
+      },
+      "5": {
+        "score": 0,
+        "notes": ""
+      },
+      "6": {
+        "score": 0,
+        "notes": ""
+      }
+    },
+    "advocacy": [],
+    "advocacy_phase": "none",
+    "advocacy_weeks_completed": 0,
+    "advocacy_weekly_progress": [],
+    "kaimahi": "Te rangi"
+  },
+  {
+    "name": "Jimothy",
+    "age": "34",
+    "gender": "Male",
+    "location": "Christchurch",
+    "iwi": "Ngai Tahu",
+    "hapu": "N/A",
+    "signup_date": "2025-03-01",
+    "phase": "completed",
+    "weeks_completed": 12,
+    "programs": [
+      "Ko wai au",
+      "Mental Health and Well-being"
+    ],
+    "weekly_progress": [
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green"
+    ],
+    "red_phase_assessments": {
+      "1": {
+        "score": 0,
+        "notes": ""
+      },
+      "2": {
+        "score": 0,
+        "notes": ""
+      },
+      "3": {
+        "score": 0,
+        "notes": ""
+      },
+      "4": {
+        "score": 0,
+        "notes": ""
+      },
+      "5": {
+        "score": 0,
+        "notes": ""
+      },
+      "6": {
+        "score": 0,
+        "notes": ""
+      }
+    },
+    "advocacy": [],
+    "advocacy_phase": "none",
+    "advocacy_weeks_completed": 0,
+    "advocacy_weekly_progress": [],
+    "kaimahi": null
+  },
+  {
+    "name": "Johnty",
+    "age": "54",
+    "gender": "Non-binary",
+    "location": "Christchurch",
+    "iwi": "Ngai Tahu",
+    "hapu": "N/A",
+    "signup_date": "2025-05-01",
+    "phase": "green",
+    "weeks_completed": 5,
+    "programs": [
+      "Ko wai au",
+      "Mental Health and Well-being",
+      "Anger Management"
+    ],
+    "weekly_progress": [
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "red_phase_assessments": {
+      "1": {
+        "score": 0,
+        "notes": ""
+      },
+      "2": {
+        "score": 0,
+        "notes": ""
+      },
+      "3": {
+        "score": 0,
+        "notes": ""
+      },
+      "4": {
+        "score": 0,
+        "notes": ""
+      },
+      "5": {
+        "score": 0,
+        "notes": ""
+      },
+      "6": {
+        "score": 0,
+        "notes": ""
+      }
+    },
+    "advocacy": [],
+    "advocacy_phase": "none",
+    "advocacy_weeks_completed": 0,
+    "advocacy_weekly_progress": [],
+    "kaimahi": null
+  },
+  {
+    "name": "ffeaf",
+    "age": "31",
+    "gender": "Non-binary",
+    "location": "sdgff",
+    "iwi": "effwfw",
+    "hapu": "efsffe",
+    "signup_date": "2025-05-01",
+    "phase": "green",
+    "weeks_completed": 5,
+    "programs": [
+      "Ko wai au",
+      "Mental Health and Well-being",
+      "Anger Management",
+      "Domestic Violence"
+    ],
+    "weekly_progress": [
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "red_phase_assessments": {
+      "1": {
+        "score": 0,
+        "notes": ""
+      },
+      "2": {
+        "score": 0,
+        "notes": ""
+      },
+      "3": {
+        "score": 0,
+        "notes": ""
+      },
+      "4": {
+        "score": 0,
+        "notes": ""
+      },
+      "5": {
+        "score": 0,
+        "notes": ""
+      },
+      "6": {
+        "score": 0,
+        "notes": ""
+      }
+    },
+    "advocacy": [],
+    "advocacy_phase": "none",
+    "advocacy_weeks_completed": 0,
+    "advocacy_weekly_progress": [],
+    "kaimahi": "Shonny"
+  },
+  {
+    "name": "wetrwgwe",
+    "age": "eeewfwfw",
+    "gender": "Other",
+    "location": "ewewef",
+    "iwi": "wefwef",
+    "hapu": "ewfwfwe",
+    "signup_date": "2025-05-01",
+    "phase": "green",
+    "weeks_completed": 5,
+    "programs": [
+      "Mental Health and Well-being",
+      "Anger Management"
+    ],
+    "weekly_progress": [
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "red_phase_assessments": {
+      "1": {
+        "score": 0,
+        "notes": ""
+      },
+      "2": {
+        "score": 0,
+        "notes": ""
+      },
+      "3": {
+        "score": 0,
+        "notes": ""
+      },
+      "4": {
+        "score": 0,
+        "notes": ""
+      },
+      "5": {
+        "score": 0,
+        "notes": ""
+      },
+      "6": {
+        "score": 0,
+        "notes": ""
+      }
+    },
+    "advocacy": [],
+    "advocacy_phase": "none",
+    "advocacy_weeks_completed": 0,
+    "advocacy_weekly_progress": [],
+    "kaimahi": null
+  },
+  {
+    "name": "Greg",
+    "age": "65",
+    "gender": "Male",
+    "location": "Christchurch",
+    "iwi": "Nga potiki",
+    "hapu": "N/A",
+    "signup_date": "2025-06-10",
+    "phase": "green",
+    "weeks_completed": 0,
+    "programs": [
+      "Ko wai au",
+      "Mental Health and Well-being",
+      "Anger Management"
+    ],
+    "weekly_progress": [
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "green",
+      "green",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "red_phase_assessments": {
+      "1": {
+        "score": 0,
+        "notes": ""
+      },
+      "2": {
+        "score": 0,
+        "notes": ""
+      },
+      "3": {
+        "score": 0,
+        "notes": ""
+      },
+      "4": {
+        "score": 0,
+        "notes": ""
+      },
+      "5": {
+        "score": 0,
+        "notes": ""
+      },
+      "6": {
+        "score": 0,
+        "notes": ""
+      }
+    },
+    "advocacy": [],
+    "advocacy_phase": "none",
+    "advocacy_weeks_completed": 0,
+    "advocacy_weekly_progress": [],
+    "kaimahi": null
+  },
+  {
+    "name": "James",
+    "age": "23",
+    "gender": "Male",
+    "location": "Christchurch",
+    "iwi": "Pukenga",
+    "hapu": "N/A",
+    "signup_date": "2025-07-14",
+    "phase": "orange",
+    "weeks_completed": 3,
+    "programs": [],
+    "weekly_progress": [
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "orange",
+      "orange",
+      "orange",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "red_phase_assessments": {
+      "1": {
+        "score": 0,
+        "notes": ""
+      },
+      "2": {
+        "score": 0,
+        "notes": ""
+      },
+      "3": {
+        "score": 0,
+        "notes": ""
+      },
+      "4": {
+        "score": 0,
+        "notes": ""
+      },
+      "5": {
+        "score": 0,
+        "notes": ""
+      },
+      "6": {
+        "score": 0,
+        "notes": ""
+      }
+    },
+    "advocacy": [],
+    "advocacy_phase": "none",
+    "advocacy_weeks_completed": 0,
+    "advocacy_weekly_progress": [],
+    "kaimahi": null
+  },
+  {
+    "name": "Brad ",
+    "age": "45",
+    "gender": "Male",
+    "location": "Christchurch",
+    "iwi": "Manawa",
+    "hapu": "Hui",
+    "signup_date": "2025-05-15",
+    "phase": "green",
+    "weeks_completed": 0,
+    "programs": [],
+    "weekly_progress": [
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "green",
+      "green",
+      "green",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "red_phase_assessments": {
+      "1": {
+        "score": 0,
+        "notes": ""
+      },
+      "2": {
+        "score": 0,
+        "notes": ""
+      },
+      "3": {
+        "score": 0,
+        "notes": ""
+      },
+      "4": {
+        "score": 0,
+        "notes": ""
+      },
+      "5": {
+        "score": 0,
+        "notes": ""
+      },
+      "6": {
+        "score": 0,
+        "notes": ""
+      }
+    },
+    "advocacy": [],
+    "advocacy_phase": "none",
+    "advocacy_weeks_completed": 0,
+    "advocacy_weekly_progress": [],
+    "kaimahi": null
+  },
+  {
+    "name": "Greg",
+    "age": "65",
+    "gender": "Male",
+    "location": "Christchurch",
+    "iwi": "Nga potiki",
+    "hapu": "N/A",
+    "signup_date": "2025-06-05",
+    "phase": "green",
+    "weeks_completed": 0,
+    "programs": [
+      "Ko wai au",
+      "Mental Health and Well-being"
+    ],
+    "weekly_progress": [
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "red_phase_assessments": {
+      "1": {
+        "score": 0,
+        "notes": ""
+      },
+      "2": {
+        "score": 0,
+        "notes": ""
+      },
+      "3": {
+        "score": 0,
+        "notes": ""
+      },
+      "4": {
+        "score": 0,
+        "notes": ""
+      },
+      "5": {
+        "score": 0,
+        "notes": ""
+      },
+      "6": {
+        "score": 0,
+        "notes": ""
+      }
+    },
+    "advocacy": [],
+    "advocacy_phase": "none",
+    "advocacy_weeks_completed": 0,
+    "advocacy_weekly_progress": [],
+    "kaimahi": null
+  },
+  {
+    "name": "zvdc",
+    "age": "afaad",
+    "gender": "Female",
+    "location": "afaf",
+    "iwi": "afa",
+    "hapu": "afaw",
+    "signup_date": "2025-07-17",
+    "phase": "orange",
+    "weeks_completed": 2,
+    "programs": [],
+    "weekly_progress": [
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "orange",
+      "orange",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "red_phase_assessments": {
+      "1": {
+        "score": 0,
+        "notes": ""
+      },
+      "2": {
+        "score": 0,
+        "notes": ""
+      },
+      "3": {
+        "score": 8,
+        "notes": "awfawwfafaf"
+      },
+      "4": {
+        "score": 9,
+        "notes": "ffgsggsfgfggdfbdfbdfbvdfvjzdvbkdjvbdzkvjbfkvjbdfkvjbzfkjvbkjnnljknzkdfjvb"
+      },
+      "5": {
+        "score": 0,
+        "notes": ""
+      },
+      "6": {
+        "score": 0,
+        "notes": ""
+      }
+    },
+    "advocacy": [],
+    "advocacy_phase": "none",
+    "advocacy_weeks_completed": 0,
+    "advocacy_weekly_progress": [],
+    "kaimahi": null
+  },
+  {
+    "name": "fafee",
+    "age": "afee",
+    "gender": "Non-binary",
+    "location": "efawfa",
+    "iwi": "afafef",
+    "hapu": "eafaeef",
+    "signup_date": "2025-05-01",
+    "phase": "green",
+    "weeks_completed": 0,
+    "programs": [],
+    "weekly_progress": [
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "red_phase_assessments": {
+      "1": {
+        "score": 0,
+        "notes": ""
+      },
+      "2": {
+        "score": 0,
+        "notes": ""
+      },
+      "3": {
+        "score": 0,
+        "notes": ""
+      },
+      "4": {
+        "score": 0,
+        "notes": ""
+      },
+      "5": {
+        "score": 0,
+        "notes": ""
+      },
+      "6": {
+        "score": 0,
+        "notes": ""
+      }
+    },
+    "advocacy": [],
+    "advocacy_phase": "none",
+    "advocacy_weeks_completed": 0,
+    "advocacy_weekly_progress": [],
+    "kaimahi": null
+  },
+  {
+    "name": "Johnny sins ",
+    "age": "42",
+    "gender": "Male",
+    "location": "Valley of the wet cravess",
+    "iwi": "Pukenga",
+    "hapu": "zdvdzczcz",
+    "signup_date": "2024-09-01",
+    "phase": "completed",
+    "weeks_completed": 12,
+    "programs": [
+      "Mental Health and Well-being",
+      "Anger Management",
+      "Domestic Violence"
+    ],
+    "weekly_progress": [
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green"
+    ],
+    "red_phase_assessments": {
+      "1": {
+        "score": 0,
+        "notes": ""
+      },
+      "2": {
+        "score": 0,
+        "notes": ""
+      },
+      "3": {
+        "score": 0,
+        "notes": ""
+      },
+      "4": {
+        "score": 0,
+        "notes": ""
+      },
+      "5": {
+        "score": 0,
+        "notes": ""
+      },
+      "6": {
+        "score": 0,
+        "notes": ""
+      }
+    },
+    "advocacy": [
+      "Family harm",
+      "Sexual harm",
+      "Mental health",
+      "Oranga Tamariki",
+      "MSD",
+      "Housing"
+    ],
+    "advocacy_phase": "active",
+    "advocacy_weeks_completed": 57,
+    "advocacy_weekly_progress": [
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "advocacy_active",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "kaimahi": "Shonny"
+  },
+  {
+    "name": "Steve",
+    "age": "32",
+    "gender": "Male",
+    "location": "Christchurch",
+    "iwi": "Pukenga",
+    "hapu": "N/A",
+    "signup_date": "2024-11-01",
+    "phase": "completed",
+    "weeks_completed": 12,
+    "programs": [
+      "Ko wai au",
+      "Mental Health and Well-being"
+    ],
+    "weekly_progress": [
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green"
+    ],
+    "red_phase_assessments": {
+      "1": {
+        "score": 0,
+        "notes": ""
+      },
+      "2": {
+        "score": 0,
+        "notes": ""
+      },
+      "3": {
+        "score": 0,
+        "notes": ""
+      },
+      "4": {
+        "score": 0,
+        "notes": ""
+      },
+      "5": {
+        "score": 0,
+        "notes": ""
+      },
+      "6": {
+        "score": 0,
+        "notes": ""
+      }
+    },
+    "advocacy": [],
+    "advocacy_phase": "none",
+    "advocacy_weeks_completed": 0,
+    "advocacy_weekly_progress": [],
+    "kaimahi": "Mervyn"
+  },
+  {
+    "name": "dggefe",
+    "age": "13",
+    "gender": "Female",
+    "location": "retwefwe",
+    "iwi": "werwef",
+    "hapu": "wefweef",
+    "signup_date": "2024-06-05",
+    "phase": "completed",
+    "weeks_completed": 12,
+    "programs": [],
+    "weekly_progress": [
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "red",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "orange",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green"
+    ],
+    "red_phase_assessments": {
+      "1": {
+        "score": 0,
+        "notes": ""
+      },
+      "2": {
+        "score": 0,
+        "notes": ""
+      },
+      "3": {
+        "score": 0,
+        "notes": ""
+      },
+      "4": {
+        "score": 0,
+        "notes": ""
+      },
+      "5": {
+        "score": 0,
+        "notes": ""
+      },
+      "6": {
+        "score": 0,
+        "notes": ""
+      }
+    },
+    "advocacy": [],
+    "advocacy_phase": "none",
+    "advocacy_weeks_completed": 0,
+    "advocacy_weekly_progress": [],
+    "kaimahi": "Mervyn"
+  }
+]
