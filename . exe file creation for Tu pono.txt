@@ -1,1 +1,0 @@
-. exe file creation for Tu pono project = pyinstaller --onedir --windowed --add-data "koru_outline.png;." --name "TuPonoTracker" "TuPonoTracker_FinalCopy.py" 
